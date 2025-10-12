@@ -18,3 +18,6 @@ conexao3.Conectar();
 
 conexao2.Desconectar();
 pool.LiberarConexao(conexao2);
+
+// Testando padrão builder
+BuilderExample.Execute();
