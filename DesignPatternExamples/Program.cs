@@ -21,3 +21,6 @@ pool.LiberarConexao(conexao2);
 
 // Testando padrão builder
 BuilderExample.Execute();
+
+// Testando padrão factory method
+FactoryExample.Execute();

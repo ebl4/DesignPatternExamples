@@ -1,0 +1,1 @@
+public enum SerializerType { Json, Xml }
