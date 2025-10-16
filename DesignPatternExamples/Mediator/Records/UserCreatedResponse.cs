@@ -1,0 +1,1 @@
+public record UserCreatedResponse(Guid UserId, string Email, DateTime CreatedAt);
